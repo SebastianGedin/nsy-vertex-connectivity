@@ -1,9 +1,6 @@
 //============================================================================
 // Name        : vertexconnectivity.cpp
 // Author      : Sebastian Gedin
-// Version     :
-// Copyright   : 
-// Description : Hello World in C++, Ansi-style
 //============================================================================
 
 #include <iostream>
